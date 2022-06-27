@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](faq-accordion-card-main\images\Screenshot 2022-06-26 155112.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/faq-accordion-card/blob/main/images/Screenshot%202022-06-26%20155112.png)
 
 ### Links
 
