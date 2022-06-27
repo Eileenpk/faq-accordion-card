@@ -24,11 +24,11 @@ Users should be able to:
 ### Screenshot
 
 ![screen shot of full screen webpage](https://github.com/Eileenpk/faq-accordion-card/blob/main/images/Screenshot%202022-06-26%20155112.png)
-
+![screen shot of mobile webpage](https://github.com/Eileenpk/faq-accordion-card/blob/main/images/Screenshot-of-mobile-site.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Eileenpk/faq-accordion-card)
+- Live Site URL: [live site](https://eileenpk.github.io/faq-accordion-card/)
 
 ### Built with
 
